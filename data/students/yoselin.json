@@ -1,0 +1,23 @@
+{
+    "id": 14,
+    "name": "Yoselin Natalia Cardona Serna",
+    "lat": 3.401904,
+    "lng": -76.5254207,
+    "color": "#03f2ffff",
+    "photo": "https://github.com/natalia2310116.png",
+    "likes": ["Patinaje", "Animaciones", "Senderismo", "Duolingo", "Jugar Valorant"],
+    "dislikes": ["Israel", "Tráfico", "que levanten la voz en espacios o conversaciones cerradas"],
+    "socialMedia": "@Yoselin4510",
+    "quote": "git push --force y que Dios decida.",
+    "funFact": "Ustedes tranquilos que yo nerviosa.",
+    "vibe": "Solo se vive una vez",
+    "superpower": "No sé cómo ---- Funcionó",
+    "topLike": { "name": "Milo", "rating": 10 },
+    "favoriteTool": { "name": "C#", "icon": "fa-brands fa-csharp" },
+    "song": { "title": "27", "artist": "Fall out boy", "url": "https://www.youtube.com/watch?v=78ddUiAI6tM"},
+    "topSpots": [
+        "24/7  - Montaña",
+        "Páramo de las Dominguez",
+        "mi casa"
+    ]
+}
