@@ -243,7 +243,7 @@ function renderMarkers(map, students) {
 
         const topSpotsHtml = student.topSpots && student.topSpots.length
             ? `<div class="popup-section">
-                   <span class="section-title">Top lugares en Cali</span>
+                   <span class="section-title">Top lugares favoritos</span>
                    <ul class="spots-list">${student.topSpots.map(s => `<li><i class="fa-solid fa-location-dot"></i> ${s}</li>`).join('')}</ul>
                </div>`
             : '';
