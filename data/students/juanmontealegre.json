@@ -1,0 +1,23 @@
+{
+    "id": 7,
+    "name": "Juan Pablo Montealegre Sanchez",
+    "lat": 3.4285096,
+    "lng": -76.5192004,
+    "color": "#03f2ffff",
+    "photo": "https://github.com/JuanMontealegreCode.png",
+    "likes": ["Viajar", "Python", "Gym", "Música Electrónica", "Jugar League of legends"],
+    "dislikes": ["Ruido", "Impuntualidad", "Insistir"],
+    "socialMedia": "@juanpablo_montealegre",
+    "quote": "Primero lo pruebo, después pregunto por qué no funciona.",
+    "funFact": "Puede pasar de revisar una póliza a debuggear código sin cambiar de pestaña.",
+    "vibe": "Modo resolver: tranquilo, directo y sin darle tantas vueltas.",
+    "superpower": "Encontrar la solución después de pelearme con el problema durante horas.",
+    "topLike": { "name": "Malteada de oreo", "rating": 10 },
+    "favoriteTool": { "name": "Python", "icon": "fa-brands fa-python" },
+    "song": { "title": "Viento", "artist": "Funk Tribu", "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd?si=3fffd3fdd37e48db"},
+    "topSpots": [
+        "Cali — mi ciudad",
+         "Mi computador — donde trabajo, estudio y programo",
+        "Cualquier lugar con buen café"
+    ]
+}
