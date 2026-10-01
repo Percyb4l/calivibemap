@@ -1,0 +1,24 @@
+{
+    "id": 22,
+    "name": "FREDDY ALEXANDER MELO BUITRAGO",
+    "lat": 3.5358,
+    "lng": -76.3012,
+    "color": "#03f2ffff",
+    "photo": "https://github.com/Alexander-Motion.png",
+    "likes": ["Café", "Tocar música", "Salir", "Estudiar", "Lol"],
+    "dislikes": ["Guerras", "Bulla", "Violencia"],
+    "socialMedia": "@Alexander_Melo",
+    "quote": "Solo sé que nada sé.",
+    "funFact": "El que madruga, Dios lo ayuda.",
+    "vibe": "Parchado, relajado y tranquilo",
+    "superpower": "Improvisar y solucionar problemas",
+    "topLike": { "name": "Miradores", "rating": 10 },
+    "favoriteTool": { "name": "Visual Studio Code", "icon": "fa-brands fa-microsoft" },
+    "song": { "title": "Rock n' Love", "artist": "LosPetitFellas", "url": "https://www.youtube.com/watch?v=YjOE6W8Qe2I&list=RDYjOE6W8Qe2I&start_radio=1"},
+    "topSpots": [
+        "Miradores - Cali",
+        "Unicentro - Palmira",
+        "Llanogrande - Palmira",
+        "Rock al parque - Bogotá"
+    ]
+}
