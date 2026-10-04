@@ -1,0 +1,23 @@
+{
+    "id": 10,
+    "name": "Andres Fernando Barbosa",
+    "lat": 3.2607,
+    "lng": -76.5350,
+    "color": "#03f2ffff",
+    "photo": "https://github.com/FFerxxo.png",
+    "likes": ["Nadar", "Los helados", "El agua"],
+    "dislikes": ["El bochorno", "El sofoco"],
+    "socialMedia": "@andresf.barbosa",
+    "quote": "Hay que meterle",
+    "funFact": "Me gustan las tortugas",
+    "vibe": "Tranquilo y parchado",
+    "superpower": "Paciencia",
+    "topLike": { "name": "Nadar", "rating": 10 },
+    "favoriteTool": { "name": "Antigravity IDE", "icon": "fa-solid fa-code" },
+    "song": { "title": "Caretas", "artist": "Ismael Miranda", "url": "https://youtu.be/-okRQLVx9sQ" },
+    "topSpots": [
+        "San Antonio, Cali",
+        "San Andrés y Providencia",
+        "Pance, Cali"
+    ]
+}
